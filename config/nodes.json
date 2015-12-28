@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "web": {
+      ":node": "Web",
+      ":box": "box-cutter/centos64",
+      ":ip": "192.168.22.81",
+      ":host": "web.server",
+      "ports": [
+        {
+          ":host": 2222,
+          ":guest": 22,
+          ":id": "ssh"
+        },
+        {
+          ":host": 8080,
+          ":guest": 80,
+          ":id": "nginx"
+        }
+      ],
+      ":memory": 512
+    }
+  }
+}
