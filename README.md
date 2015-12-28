@@ -1,7 +1,7 @@
 Ansible: NGINX Webserver
 =======================
 
-Ansible playbook to provision nginx webservers.
+Ansible playbook to provision nginx web servers.
 
 By default, the playbook provisions a `web` node in the `webservers` group with the following nginx configuration declared in `group_vars/webservers.yml`:
 
