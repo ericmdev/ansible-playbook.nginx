@@ -15,7 +15,7 @@
     version: 1.0.1
     name: repo-webtatic
 
-  - src: https://github.com/weareinteractive/ansible-vim
+  - src: https://github.com/ericmdev/ansible-vim.git
     version: 1.1.0
     name: vim
 
