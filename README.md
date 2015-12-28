@@ -1,5 +1,5 @@
-Ansible NGINX
-=============
+Ansible NGINX Webserver
+=======================
 
 Ansible provision nginx webserver:
 
