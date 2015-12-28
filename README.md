@@ -1,7 +1,7 @@
 Ansible: NGINX Webserver
 =======================
 
-Ansible provision nginx webserver:
+Ansible playbook to provision an nginx webserver.
 
 OS:
 - RHEL/CentOS 6.x.
