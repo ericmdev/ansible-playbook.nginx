@@ -1,5 +1,5 @@
-Ansible: NGINX Webserver
-=======================
+Ansible: NGINX Web Servers
+==========================
 
 Ansible playbook to provision nginx web servers.
 
