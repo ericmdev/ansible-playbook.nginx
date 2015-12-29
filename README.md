@@ -1,5 +1,4 @@
-Ansible: NGINX - Web Server
-===========================
+## Ansible: NGINX - Web Server
 
 Ansible playbook to provision NGINX web servers.
 
@@ -15,8 +14,7 @@ By default, the playbook provisions a `web` node in the `webservers` group with 
 OS:
 - RHEL/CentOS 6.x.
 
-Usage
------
+### Usage
 
 Clone repo:
     
@@ -26,8 +24,7 @@ Ansible Galaxy install requirements.
 
     $ ansible-galaxy install -r requirements.yml -p roles/ --ignore-errors
 
-Vagrant
--------
+### Vagrant
 
 Vagrant up:
 
