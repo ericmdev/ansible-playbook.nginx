@@ -16,7 +16,7 @@ By default, the playbook provisions a `web` node in the `webservers` group with 
 
 ### Installation
 
-Clone repo:
+Clone repo.
     
     $ git clone <repo> ./ansible
 
@@ -26,6 +26,6 @@ Ansible Galaxy install requirements.
 
 ### Usage
 
-Vagrant up:
+Vagrant up.
 
     $ vagrant up
