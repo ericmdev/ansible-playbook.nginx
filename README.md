@@ -11,12 +11,12 @@ By default, the playbook provisions a `web` node in the `webservers` group with 
         root: "/srv/app"
         index: "index.html"
 
-*OS:*
+*OS*
 - RHEL/CentOS 6.x.
 
 ### Installation
 
-Clone repo.
+Clone repo:
     
     $ git clone <repo> ./ansible
 
