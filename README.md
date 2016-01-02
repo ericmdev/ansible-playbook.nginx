@@ -1,4 +1,4 @@
-## Ansible: NGINX - Web Server
+## Ansible: NGINX
 
 [Ansible](http://www.ansible.com/) **playbook** to provision [NGINX](https://www.nginx.com/) web servers.
 
