@@ -2,7 +2,7 @@
 
 [Ansible](http://www.ansible.com/) **playbook** to provision [NGINX](https://www.nginx.com/) web servers.
 
-By default, the playbook provisions a `web` node in the `webservers` group:
+By default, the playbook provisions a `web` node in the `webservers` group with the following nginx configuration:
 
     nginx_user: "nginx"
     nginx_vhosts:
