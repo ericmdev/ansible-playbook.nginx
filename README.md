@@ -14,15 +14,17 @@ By default, the playbook provisions a `web` node in the `webservers` group with 
 *OS*
 - RHEL/CentOS 6.x.
 
-### Installation
+### Clone
 
-Clone repo:
+Clone repo into your project:
     
-    $ git clone <repo> ./ansible
+    $ git clone <repo> ./ansible-playbook-nginx
+
+### Installation
 
 Ansible Galaxy install requirements.
 
-    $ ansible-galaxy install -r requirements.yml -p roles/ --ignore-errors
+    $ sh bin/install
 
 ### Usage
 
