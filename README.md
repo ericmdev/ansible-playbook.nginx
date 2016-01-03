@@ -16,7 +16,7 @@ By default, the playbook provisions a `web` node in the `webservers` group with 
 
 ### Clone
 
-Clone repo into your project:
+Clone repo:
     
     $ git clone <repo> ./ansible-playbook-nginx
 
