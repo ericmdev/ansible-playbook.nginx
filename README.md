@@ -14,6 +14,16 @@ By default, the playbook provisions a `web` node in the `webservers` group with 
 *OS*
 - RHEL/CentOS 6.x.
 
+### Roles
+
+- ca-certificates
+- git
+- libselinux-python
+- nginx
+- repo-epel-release
+- repo-webtatic
+- vim
+
 ### Clone
 
 Clone repo:
